@@ -1,0 +1,6 @@
+# Project configuration for Loan Eligibility Predictor
+random_seed: 42
+model_dir: models/
+data:
+  raw: data/raw/
+  processed: data/processed/

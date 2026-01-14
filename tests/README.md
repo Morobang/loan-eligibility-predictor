@@ -1,0 +1,1 @@
+This folder contains unit tests for the Loan Eligibility Predictor project.
